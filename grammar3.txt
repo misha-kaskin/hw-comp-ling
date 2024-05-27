@@ -1,0 +1,4 @@
+S
+a, b
+S -> aSb, S -> ab
+S

@@ -1,0 +1,4 @@
+S
+a, b
+S -> aaSbb, S -> eps
+S
